@@ -1,8 +1,11 @@
-### Cahier des charges de base :
+### To-Do List simple
 
-Je veux un champs texte avec un bouton d'ajout
-Lorsque je clique sur le bouton d'ajout, cela ajoute l'élément en haut de la liste
-Chaque élément de la liste doit afficher le contenu texte avec deux boutons
-Un bouton "Compléter" qui va barrer la tâche pour indiquer visuellement sa validation
-Un bouton "Supprimer" qui retire l'élément de la liste
-Cliquer à nouveau sur le bouton de complétion alterne le statut de la tâche entre "Complété" et "À compléter".
+## Description
+
+Ce projet est une **simple To-Do List** réalisée en **JavaScript** dans le cadre d'un cours de Javascript.
+L'objectif principal est de mettre en pratique les notions fondamentales de **JavaScript**, ainsi que l'**interaction avec le DOM** et la **gestion des événements**.
+
+L'utilisateur peut :
+- Ajouter une tâche
+- Supprimer une tâche
+- Marquer une tâche comme terminée
